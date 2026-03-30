@@ -35,5 +35,5 @@ g++ train.cpp -o train
 Run the program:
 
 ```
-./train
+./train  
 ```
